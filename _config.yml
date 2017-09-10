@@ -1,6 +1,6 @@
 # Site
 title:              "2daistheday's Tech Blog"
-name                "2dayistheday"
+name:               "2dayistheday"
 bio:                "카르페디엠과 메멘토모리가 결합된 삶"
 description:        "Today is the day."
 reading_time:       true
