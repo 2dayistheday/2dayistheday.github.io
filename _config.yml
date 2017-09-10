@@ -1,14 +1,14 @@
 # Site
 title:              "2dayistheday"
-bio:                '2daistheday's Tech Blog'
-description:        "카르페디엠과 메멘토모리가 결합된 삶"
+bio:                2daistheday's Tech Blog
+description:        카르페디엠과 메멘토모리가 결합된 삶
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                "https://2dayistheday.github.io/"
+url:                https://2dayistheday.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            
-facebook:           kmk3075
-github-url:         "https://github.com/2dayistheday"
+facebook:           kmk3075@hanmail.net
+github-url:         https://github.com/2dayistheday
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          "in/minkyung-kim-097660b6/"
 #xing:              username
-instagram:          "2dayis_theday"
+instagram:          2dayis_theday
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
