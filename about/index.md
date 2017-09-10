@@ -8,12 +8,14 @@ comments: false
     
 <b><center>김민경(Minkyung Kim), 1994/11/27</center></b>
 
+<h3 class="title"><center>
 <a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
 <a class="social-btn" href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i></a>
 <a class="social-btn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
 <a class="social-btn" href="http://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-instagram"></i></a>
 <a class="social-btn" href="http://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
-<a class="social-btn" href="xmpp:{{ site.xmpp }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-lightbulb-o"></i></a>
+<a class="social-btn" href="{{ site.blog }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-plus-square"></i></a>
+</center></h3>
 
 
 ## Education
