@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              2dayistheday
+bio:                '2daistheday's Tech Blog'
+description:        "카르페디엠과 메멘토모리가 결합된 삶"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -31,7 +31,7 @@ disqus_shortname:   taylantatli
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
+  #plus:            #2dayistheday
   #analytics:
   #verify:
   #ad-client:
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+facebook:           kmk3075
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
