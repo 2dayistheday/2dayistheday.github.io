@@ -8,7 +8,8 @@ comments: false
     
 <center>김민경(Minkyung Kim), 1994/11/27</center>
 
- {% include social-links.html %}
+<a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
+
 
 ## Education
 * <a href = "http://www.hansung.ac.kr/web/www/home">Hansung University</a>
