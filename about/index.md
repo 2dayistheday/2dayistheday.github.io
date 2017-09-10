@@ -14,7 +14,7 @@ comments: false
 <a class="social-btn" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-linkedin-square"></i></a>
 <a class="social-btn" href="http://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-instagram"></i></a>
 <a class="social-btn" href="http://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a>
-<a class="social-btn" href="{{ site.blog }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-plus-square"></i></a>
+<a class="social-btn" href="http://{{ site.blog }}" target="_blank" rel="noopener noreferrer"><i class="	format_quote"></i></a>
 </center></h3>
 
 
