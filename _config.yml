@@ -1,5 +1,5 @@
 # Site
-title:              2dayistheday
+title:              "2dayistheday"
 bio:                '2daistheday's Tech Blog'
 description:        "카르페디엠과 메멘토모리가 결합된 삶"
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://2dayistheday.github.io/
+url:                "https://2dayistheday.github.io/"
 
 # Jekyll
 permalink:          /:title/
