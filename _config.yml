@@ -38,12 +38,12 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            
-facebook:           kmk3075@hanmail.net
-github-url:         https://github.com/2dayistheday
+email:				kmk3075@gmail.com
+#twitter:            
+facebook:           profile.php?id=100005309318890
+github-url:         2dayistheday
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          "in/minkyung-kim-097660b6/"
+linkedin:          "minkyung-kim-097660b6/"
 #xing:              username
 instagram:          2dayis_theday
 #lastfm:            username
@@ -51,7 +51,7 @@ instagram:          2dayis_theday
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -60,7 +60,7 @@ steam:              username
 #flickr:            username
 #codepen:           username
 #keybase:           username
-#xmpp:              kmk3075@gmail.com
+#xmpp:              
 #hackernews:        username
 
 # Gems
