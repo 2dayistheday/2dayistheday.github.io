@@ -10,6 +10,7 @@ tag:
 - blog
 - post
 - theme
+- thoughts
 comments: true
 ---
 
@@ -27,3 +28,5 @@ comments: true
 을 올리게 될 것 같다!
 
 그럼 첫 글을 이만 줄이며,...
+
+	p.s. 방금 생각난 건데 첫 페이지의 달을 현재 한국에서 보이는 달로 만들면 재밌겠다.
