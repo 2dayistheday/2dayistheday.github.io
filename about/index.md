@@ -32,10 +32,15 @@ comments: false
 	* 8th Trainee
 
 ## Projects
-* 
+* 챗봇(Chat-bot)을 이용한 예약 서비스
+	* Node.js, MySQL, AWS, facebook messenger bot
+* 안드로이드 실내위치 프로젝트
+	* JAVA, Android
+* 웹 테스트 자동화 개발
+	* Selenium, page Factory pattern, JAVA, JUnit, Android
 
-##Skills
+## Skills
 * JAVA
-* C++, C(read
 
-##Ohters
+## Ohters
+
