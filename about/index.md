@@ -6,7 +6,7 @@ date: 2017-09-10
 comments: false
 ---
     
-<center><b>김민경(Minkyung Kim), 1994/11/27<b></center>
+<center><b>김민경(Minkyung Kim), 1994/11/27</b></center>
 
 <h3 class="title"><center>
 <a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i></a>
@@ -32,8 +32,10 @@ comments: false
 	* 8th Trainee
 
 ## Projects
-
+* 
 
 ##Skills
+* JAVA
+* C++, C(read
 
 ##Ohters
