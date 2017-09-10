@@ -1,16 +1,4 @@
 # Site navigation links
   
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
 - title: Projects
   url: /projects/
-
-- title: About
-  url: /about/
-
-- title: 2dayistheday
-  url: https://2dayistheday.github.io
