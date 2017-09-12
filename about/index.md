@@ -52,9 +52,9 @@ comments: false
 	* 안드로이드 어플 개발
 	* JAVA, Android
 <figure>
-	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1" style="width: calc(50% - 6px)">
-	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" style="width: calc(25% - 6px)">
-	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" style="width: calc(25% - 6px)">
+	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1" style="width: calc(50% - 6px); float: left; margin-left: 1px; margin-right: 1px;">
+	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" style="width: calc(25% - 6px);float: left; margin-left: 1px; margin-right: 1px;">
+	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" style="width: calc(25% - 6px);float: left; margin-left: 1px; margin-right: 1px;">
 	<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
 </figure>	
 	
