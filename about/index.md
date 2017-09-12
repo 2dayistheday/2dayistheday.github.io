@@ -64,9 +64,9 @@ comments: false
 	* 예약을 하는 사용자와 예약 관리자와의 자동 챗봇 예약 시스템
 	* <a href = "https://github.com/2dayistheday/team725">관리자 웹 페이지 개발</a>
 	* Node.js, MySQL, AWS, facebook messenger bot
-	<figure class = "half">
-		<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
-	</figure>
+<figure class = "half">
+	<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
+</figure>
 <figure class = "fourth">
 	<img src="{{ site.url }}/assets/img/about/bot_2.png" alt="bot_2">
 	<img src="{{ site.url }}/assets/img/about/bot_3.png" alt="bot_3">
@@ -80,13 +80,7 @@ comments: false
 	* 개발인원 1명
 	* 셀레니움 테스트 자동화 개발, 주로 결제 테스트 진행
 	* pageFactory 패턴 적용하여 유연성 증대, sms인증 자동화 앱 개발, 이미지 추적 라이브러리 sikuli사용 가상키보드 입력
-	* Selenium, page Factory pattern, JAVA, JUnit, Android
-	<figure class="fourth">
-		<img src="{{ site.url }}/assets/img/about/sel_1.png" alt="sel_1">
-		<img src="{{ site.url }}/assets/img/about/sel_2.png" alt="sel_2">
-		<img src="{{ site.url }}/assets/img/about/sel_3.png" alt="sel_3">
-		<figcaption>결제테스트</figcaption>
-	</figure>	
+	* Selenium, page Factory pattern, JAVA, JUnit, Android	
 
 ## Skills
 * JAVA
