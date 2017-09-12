@@ -53,8 +53,8 @@ comments: false
 	* JAVA, Android
 <figure class="third">
 	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1">
-	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1">
-	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2">
+	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" width="175">
+	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" width="175">
 	<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
 </figure>	
 	
@@ -64,13 +64,14 @@ comments: false
 	* 예약을 하는 사용자와 예약 관리자와의 자동 챗봇 예약 시스템
 	* <a href = "https://github.com/2dayistheday/team725">관리자 웹 페이지 개발</a>
 	* Node.js, MySQL, AWS, facebook messenger bot
-<figure>
-	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1">
+<figure class = "fourth">
 	<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
-	<img src="{{ site.url }}/assets/img/about/bot_2.png" alt="bot_2">
-	<img src="{{ site.url }}/assets/img/about/bot_3.png" alt="bot_3">
-	<img src="{{ site.url }}/assets/img/about/bot_4.png" alt="bot_4">
-	<img src="{{ site.url }}/assets/img/about/bot_5.png" alt="bot_5">
+</figure>
+<figure class = "fourth">
+	<img src="{{ site.url }}/assets/img/about/bot_2.png" alt="bot_2" width="175">
+	<img src="{{ site.url }}/assets/img/about/bot_3.png" alt="bot_3" width="175">
+	<img src="{{ site.url }}/assets/img/about/bot_4.png" alt="bot_4" width="175">
+	<img src="{{ site.url }}/assets/img/about/bot_5.png" alt="bot_5" width="175">
 	<figcaption>챗 봇 동작 이미지</figcaption>
 </figure>
 
