@@ -51,14 +51,12 @@ comments: false
 	* 외부 스피커의 소리의 메시지를 분석해 스피커의 절대좌표를 얻고, 스피커간의 소리 도착 시간의 차이를 통해 상대좌표 획득, 이를 통해 현재 디바이스의 좌표 획득
 	* 안드로이드 어플 개발
 	* JAVA, Android
-	<figure class ="half">
-		<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1">
-	</figure>
-	<figure class ="fourth">
-		<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" width="25%">
-		<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" width="25%">
-		<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
-	</figure>	
+<figure>
+	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1" style="width: calc(50% - 6px)">
+	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" style="width: calc(25% - 6px)">
+	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" style="width: calc(25% - 6px)">
+	<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
+</figure>	
 	
 * <a href = "https://youtu.be/e32CEHRainw" >챗봇(Chat-bot)을 이용한 예약 서비스</a>
 	* 2016.03 ~ 2016.06
