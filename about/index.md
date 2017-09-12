@@ -32,15 +32,49 @@ comments: false
 	* 8th Trainee
 
 ## Projects
-* 챗봇(Chat-bot)을 이용한 예약 서비스
-	* Node.js, MySQL, AWS, facebook messenger bot
+* 유니티를 이용한 재난교육 시뮬레이션
+	* 2015.07 ~ 2015.08
+	* 개발인원 2명
+	* 3d 환경에서 재난 상황을 경험하고, 대처방법을 익힘, 제한시간이나 미션을 통해 게임요소를 통해 학습
+	* 그래픽 모델링, 유니티 개발
+	* 3dMax, Unity3D, C#
+<figure class="third">
+	<img src="{{ site.url }}/assets/img/about/unity_1.png" alt="unity_1">
+	<img src="{{ site.url }}/assets/img/about/unity_2.png" alt="unity_2">
+	<img src="{{ site.url }}/assets/img/about/unity_3.png" alt="unity_3">
+	<figcaption>시뮬레이션 캡쳐</figcaption>
+</figure>
+
 * 안드로이드 실내위치 프로젝트
+	* 2015.11 ~ 2016.04
+	* 개발인원 1명 + 교수님
+	* 외부 스피커의 소리의 메시지를 분석해 스피커의 절대좌표를 얻고, 스피커간의 소리 도착 시간의 차이를 통해 상대좌표 획득, 이를 통해 현재 디바이스의 좌표 획득
+	* 안드로이드 어플 개발
 	* JAVA, Android
+	
+* <a href = "https://youtu.be/e32CEHRainw" >챗봇(Chat-bot)을 이용한 예약 서비스</a>
+	* 2016.03 ~ 2016.06
+	* 개발인원 3명
+	* 예약을 하는 사용자와 예약 관리자와의 자동 챗봇 예약 시스템
+	* <a href = "https://github.com/2dayistheday/team725">관리자 웹 페이지 개발</a>
+	* Node.js, MySQL, AWS, facebook messenger bot
+
 * 웹 테스트 자동화 개발
+	* 2016.08 ~ 2016.12
+	* 개발인원 1명
+	* 셀레니움 테스트 자동화 개발, 주로 결제 테스트 진행
+	* pageFactory 패턴 적용하여 유연성 증대, sms인증 자동화 앱 개발, 이미지 추적 라이브러리 sikuli사용 가상키보드 입력
 	* Selenium, page Factory pattern, JAVA, JUnit, Android
 
 ## Skills
 * JAVA
+* C++, C (read only)
+* Node.js
+* python Django
+
+## Tools
+* Android
+* Git
 
 ## Ohters
 
