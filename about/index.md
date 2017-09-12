@@ -51,14 +51,14 @@ comments: false
 	* 외부 스피커의 소리의 메시지를 분석해 스피커의 절대좌표를 얻고, 스피커간의 소리 도착 시간의 차이를 통해 상대좌표 획득, 이를 통해 현재 디바이스의 좌표 획득
 	* 안드로이드 어플 개발
 	* JAVA, Android
-<figure class ="half">
-	<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1">
-</figure>
-<figure class ="fourth">
-	<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" width="25%">
-	<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" width="25%">
-	<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
-</figure>	
+	<figure class ="half">
+		<img src="{{ site.url }}/assets/img/about/detail_1.png" alt="detail_1">
+	</figure>
+	<figure class ="fourth">
+		<img src="{{ site.url }}/assets/img/about/android_1.png" alt="android_1" width="25%">
+		<img src="{{ site.url }}/assets/img/about/android_2.png" alt="android_2" width="25%">
+		<figcaption>기술설명과 안드로이드 동작캡쳐</figcaption>
+	</figure>	
 	
 * <a href = "https://youtu.be/e32CEHRainw" >챗봇(Chat-bot)을 이용한 예약 서비스</a>
 	* 2016.03 ~ 2016.06
@@ -66,9 +66,9 @@ comments: false
 	* 예약을 하는 사용자와 예약 관리자와의 자동 챗봇 예약 시스템
 	* <a href = "https://github.com/2dayistheday/team725">관리자 웹 페이지 개발</a>
 	* Node.js, MySQL, AWS, facebook messenger bot
-<figure class = "half">
-	<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
-</figure>
+	<figure class = "half">
+		<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
+	</figure>
 <figure class = "fourth">
 	<img src="{{ site.url }}/assets/img/about/bot_2.png" alt="bot_2">
 	<img src="{{ site.url }}/assets/img/about/bot_3.png" alt="bot_3">
@@ -83,12 +83,12 @@ comments: false
 	* 셀레니움 테스트 자동화 개발, 주로 결제 테스트 진행
 	* pageFactory 패턴 적용하여 유연성 증대, sms인증 자동화 앱 개발, 이미지 추적 라이브러리 sikuli사용 가상키보드 입력
 	* Selenium, page Factory pattern, JAVA, JUnit, Android
-<figure class="fourth">
-	<img src="{{ site.url }}/assets/img/about/sel_1.png" alt="sel_1">
-	<img src="{{ site.url }}/assets/img/about/sel_2.png" alt="sel_2">
-	<img src="{{ site.url }}/assets/img/about/sel_3.png" alt="sel_3">
-	<figcaption>결제테스트</figcaption>
-</figure>	
+	<figure class="fourth">
+		<img src="{{ site.url }}/assets/img/about/sel_1.png" alt="sel_1">
+		<img src="{{ site.url }}/assets/img/about/sel_2.png" alt="sel_2">
+		<img src="{{ site.url }}/assets/img/about/sel_3.png" alt="sel_3">
+		<figcaption>결제테스트</figcaption>
+	</figure>	
 
 ## Skills
 * JAVA
