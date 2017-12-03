@@ -26,7 +26,8 @@ comments: true
 
 <img src="{{ site.url }}/assets/img/data/5_coll_interface.pn" alt="java collections">
 
-<E>, <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
+<xmp>
+<E>, </K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
 
 ![5_collection](/Users/todayistheday/Documents/스터디/mdFile_pic/5_collection.jpg)
 
@@ -98,3 +99,4 @@ comments: true
     ```
 
   - 특장점: 컬렉션 클래스의 종류에 상관없이 동일한 형태의 데이터 참조방식을 유지한다.
+</xmp>
