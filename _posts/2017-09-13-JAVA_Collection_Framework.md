@@ -26,11 +26,11 @@ comments: true
 
   ![5_coll_interface](/assets/img/data/5_coll_interface.png)
 
- <E> <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
+ <E'> <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
 
 ![5_collection](/assets/img/data/5_collection.jpg)
 
-- List<E> 인터페이스와 이를 구현하는 제네릭 클래스 ArrayList<E>, LinkedList<E>
+- List<E> 인터페이스와 이를 구현하는 제네릭 클래스 ArrayList<E'>, LinkedList<E'>
 
   - 특징1: 동일한 인스턴스의 중복 저장을 허용한다.
 
@@ -54,7 +54,7 @@ comments: true
     - 단: 데이터의 삭제에 필요한 연산과정이 매우 길다
     - 장: 데이터의 참조가 용이해서 빠른 참조가 가능하다.
 
-  - LinkedList<E>의 특성
+  - LinkedList<E'>의 특성
 
     - 장: 저장소의 용량을 늘리는 과정이 매우 간단하다.
     - 장: 데이터의 삭제가 매우 간단하다.
