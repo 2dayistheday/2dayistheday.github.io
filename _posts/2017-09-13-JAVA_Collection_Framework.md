@@ -26,11 +26,11 @@ comments: true
 
   ![5_coll_interface](/assets/img/data/5_coll_interface.png)
 
-<xmp> <E> </xmp>, <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
+ <E> <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
 
 ![5_collection](/assets/img/data/5_collection.jpg)
 
-- List<xmp><E></xmp> 인터페이스와 이를 구현하는 제네릭 클래스 ArrayList<xmp><E></xmp>, LinkedList<xmp><E></xmp>
+- List<E> 인터페이스와 이를 구현하는 제네릭 클래스 ArrayList<E>, LinkedList<E>
 
   - 특징1: 동일한 인스턴스의 중복 저장을 허용한다.
 
@@ -47,21 +47,21 @@ comments: true
     list2.remove(0);
     ```
 
-  - ArrayList<xmp><E></xmp>와 LinkedList<xmp><E></xmp>의 차이점
+  - ArrayList<E>와 LinkedList<E>의 차이점
     : 내부적으로 인스턴스를 저장하는 방식에서 큰 차이를 보인다. ArrayList는 배열을 기반으로 한다. 내부적으로 배열을 이용해서 인스턴스의 참조 값을 저장하기 때문에 특징이 있다.
 
     - 단: 저장소의 용량을 늘리는 과정에서 많은 시간이 소요된다.
     - 단: 데이터의 삭제에 필요한 연산과정이 매우 길다
     - 장: 데이터의 참조가 용이해서 빠른 참조가 가능하다.
 
-  - LinkedList<xmp><E></xmp>의 특성
+  - LinkedList<E>의 특성
 
     - 장: 저장소의 용량을 늘리는 과정이 매우 간단하다.
     - 장: 데이터의 삭제가 매우 간단하다.
     - 단: 데이터의 참조가 다소 불편하다.
 
 - Iterator를 이용한 인스턴스의 순차적 접근
-  : iterator 메소드가 호출되면 인스턴스가 하나 생성되는데, 이 인스턴스는 Iterator<xmp><E></xmp> 인터페이스를 구현하는 클래스의 인스턴스야! 그리고 iterator 메소드는 이 인스턴스의 참조 값을 반환해!
+  : iterator 메소드가 호출되면 인스턴스가 하나 생성되는데, 이 인스턴스는 Iterator<E> 인터페이스를 구현하는 클래스의 인스턴스야! 그리고 iterator 메소드는 이 인스턴스의 참조 값을 반환해!
 
   - Boolean hasNext()	: 참조할 다음 번 요소(element)가 존재하면 true를 반환
   - E next()                           : 다음 번 요소를 반환
