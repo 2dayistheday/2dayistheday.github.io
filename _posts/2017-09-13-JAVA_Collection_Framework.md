@@ -26,10 +26,9 @@ comments: true
 
   ![5_coll_interface](/assets/img/data/5_coll_interface.png)
 
-<xmp>
-    <E></xmp>, <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
+<xmp> <E> </xmp>, <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
 
-![5_collection](/Users/todayistheday/Documents/스터디/mdFile_pic/5_collection.jpg)
+![5_collection](/assets/img/data/5_collection.jpg)
 
 - List<xmp><E></xmp> 인터페이스와 이를 구현하는 제네릭 클래스 ArrayList<xmp><E></xmp>, LinkedList<xmp><E></xmp>
 
