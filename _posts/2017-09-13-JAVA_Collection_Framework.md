@@ -24,7 +24,7 @@ comments: true
 
 - 컬렉션 프레임워크의 인터페이스 구조(기본 골격)
 
-  ![5_coll_interface](/assets/img/data/5_coll_interface.png)
+<img src="{{ site.url }}/assets/img/data/5_coll_interface.pn" alt="java collections">
 
 <E>, <K, V>는 모든 인터페이스가 제네릭으로 정의되었음을 표현한다. 대부분은 java.util 패키지에 묶여있다.
 
