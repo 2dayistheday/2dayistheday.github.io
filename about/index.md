@@ -23,7 +23,12 @@ comments: false
 	* 2013.03 ~ 2017.02
 	* B.S. Multimedia Engineering
 
-## Experience
+## Work Experience
+* Daou Tech
+    * 2016.08 ~ 2016.12
+    * 시스템 코어 개발팀, 웹 테스트 자동화 개발
+
+## Extracurricular Activities
 * DC&M
 	* 2014.07 ~ 2016.06
 	* Undergraduate Laboratory in Hansung Univ.
@@ -80,17 +85,20 @@ comments: false
 	* 개발인원 1명
 	* 셀레니움 테스트 자동화 개발, 주로 결제 테스트 진행
 	* pageFactory 패턴 적용하여 유연성 증대, sms인증 자동화 앱 개발, 이미지 추적 라이브러리 sikuli사용 가상키보드 입력
-	* Selenium, page Factory pattern, JAVA, JUnit, Android	
+	* Selenium, page Factory pattern, JAVA, JUnit, Android
+
+* 다자간 커뮤니케이션 도구, Chamber
+    * 2017.08 ~ 2017.12
+    * 개발인원 3명
+    * 온라인 상에서도 오프라인처럼 자유롭게 소통하고 협업할 수 있는 공간 화상대화, 공동문서, 채팅, 파일공유
+    * 웹 개발, 유저 계정연결(passort module), DB 설계
+    * Node.js Express, MySQL, AWS
+    * https://youtu.be/4eisySInGxE
 
 ## Skills
-* JAVA
-* C++, C (read only)
-* Node.js
-* python Django
-
-## Tools
+* Java
 * Android
-* Git
+* Node.js
 
 ## Ohters
-
+<!--* <a href="http://2dayistheday.me">일상 블로그</a>-->
