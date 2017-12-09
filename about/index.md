@@ -93,7 +93,7 @@ comments: false
     * 온라인 상에서도 오프라인처럼 자유롭게 소통하고 협업할 수 있는 공간 화상대화, 공동문서, 채팅, 파일공유
     * 웹 개발, 유저 계정연결(passort module), DB 설계
     * Node.js Express, MySQL, AWS
-    * https://youtu.be/4eisySInGxE
+    * <a href="https://youtu.be/4eisySInGxE">Demo Video</a>
 
 ## Skills
 * Java
