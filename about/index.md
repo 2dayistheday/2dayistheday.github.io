@@ -67,7 +67,7 @@ comments: false
 	* 2016.03 ~ 2016.06
 	* 개발인원 3명
 	* 예약을 하는 사용자와 예약 관리자와의 자동 챗봇 예약 시스템
-	* <a href = "https://github.com/2dayistheday/team725">관리자 웹 페이지 개발</a>
+	* 관리자 웹 페이지 개발
 	* Node.js, MySQL, AWS, facebook messenger bot
 <figure class = "half">
 	<img src="{{ site.url }}/assets/img/about/bot_1.png" alt="bot_1">
